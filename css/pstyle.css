@@ -1,7 +1,12 @@
 .l {
+    background-color: aqua;
     float: left;
+    height: 50px;
 }
 
-.r {
-    float: right;
+.d {
+    background-color:aquamarine;
+    width: 50%;
+    height: 50px;
 }
+
