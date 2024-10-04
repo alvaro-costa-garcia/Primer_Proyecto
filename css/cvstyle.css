@@ -1,3 +1,10 @@
-body {
-    background-color: aqua;
+a {
+    text-decoration: none;
+}
+
+.l{
+    float:left;
+}
+.r {
+    float: right;
 }
