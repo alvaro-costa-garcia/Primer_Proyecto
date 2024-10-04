@@ -10,6 +10,9 @@ h5 {
 header {
     border: black 2px solid;
 }
+iframe {
+    border-collapse: collapse;
+}
 
 .b {
     float:left;
