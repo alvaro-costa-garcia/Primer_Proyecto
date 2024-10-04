@@ -1,12 +1,46 @@
+h1 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-weight: normal;
+}
+
+header {
+    border: black 2px solid;
+}
+
+.b {
+    width: 30%;
+    background-color: aliceblue;
+}
+
+.bb {
+    background-color: antiquewhite;
+    width: 40%;
+}
+
 .l {
-    background-color: aqua;
-    float: left;
+    float: right;
+    width: 50%;
     height: 50px;
+    text-align: right;
 }
 
 .d {
-    background-color:aquamarine;
-    width: 50%;
+    width: 44%;
     height: 50px;
+    float: left;
 }
 
+.e {
+    width: 100%;
+    height: 200px;
+    vertical-align: middlea;
+}
+
+.img {
+    float: left;
+    width: 50px;
+}
