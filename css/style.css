@@ -1,0 +1,38 @@
+body {
+    background-color: bisque;
+}
+
+td {
+    text-align: center;
+    color:black;
+}
+
+.sor {
+    background-color: #088000;
+}
+
+.sr {
+    background-color: #290087;
+}
+
+.si {
+    background-color: #84818e;
+}
+.aw {
+    background-color: #8dee00;
+}
+.eie {
+    background-color: #4abd8c;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.g {
+    background-color: chocolate;
+}
+.g2 {
+    background-color: #fcae51;
+}
