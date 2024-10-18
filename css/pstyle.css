@@ -1,4 +1,6 @@
-h1 {
+h1,
+h2,
+h3{
     text-align: center;
 }
 
@@ -12,6 +14,54 @@ header {
 }
 iframe {
     border-collapse: collapse;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: blue;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+main {
+    display: flex;
+}
+
+main .work {
+    background-color: aqua;
+    padding-left: 1rem;
+    padding-bottom: 2rem;
+    width: 40%;
+    border: black 2px solid;
+}
+
+main .edu {
+    background-color: aquamarine;
+    width: 30%;
+    padding-left: 1rem;
+    padding-bottom: 2rem;
+    border: black 2px solid;
+}
+
+main .proj {
+    background-color: red;
+    width: 30%;
+    padding-left: 1rem;
+    padding-bottom: 2rem;
+    border: black 2px solid;
+}
+
+.review {
+    background-color: orange;
 }
 
 .l {
