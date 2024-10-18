@@ -4,6 +4,10 @@ h3{
     text-align: center;
 }
 
+body {
+    background-color: lightgrey;
+}
+
 h5 {
     text-align: center;
     font-weight: normal;
@@ -11,6 +15,7 @@ h5 {
 
 header {
     border: black 2px solid;
+    background-color: lightblue;
 }
 iframe {
     border-collapse: collapse;
@@ -36,6 +41,18 @@ main {
     display: flex;
 }
 
+.divr {
+    padding: 1rem;
+    border: black 1px solid;
+
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: stretch;
+}
 main .work {
     background-color: aqua;
     padding-left: 1rem;
@@ -53,7 +70,7 @@ main .edu {
 }
 
 main .proj {
-    background-color: red;
+    background-color: aquamarine;
     width: 30%;
     padding-left: 1rem;
     padding-bottom: 2rem;
@@ -61,7 +78,8 @@ main .proj {
 }
 
 .review {
-    background-color: orange;
+    background-color: lightblue;
+    border: black 2px solid;
 }
 
 .l {
