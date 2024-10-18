@@ -57,24 +57,24 @@ main .work {
     background-color: aqua;
     padding-left: 1rem;
     padding-bottom: 2rem;
-    width: 40%;
     border: black 2px solid;
+    width: 60%;
 }
 
 main .edu {
     background-color: aquamarine;
-    width: 30%;
     padding-left: 1rem;
     padding-bottom: 2rem;
     border: black 2px solid;
+    width: 20%;
 }
 
 main .proj {
     background-color: aquamarine;
-    width: 30%;
     padding-left: 1rem;
     padding-bottom: 2rem;
     border: black 2px solid;
+    width: 20%;
 }
 
 .review {
