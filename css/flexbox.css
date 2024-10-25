@@ -1,0 +1,33 @@
+.flexbox {
+    display: flex;
+    gap: 3rem;
+    background-color: green;
+    justify-content: center;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+}
+
+body {
+    background-color: yellowgreen;
+}
+
+.p {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.hdiv {
+    font-size: 4rem;
+    border: black 1px solid;
+    border-radius: 25px;
+    padding: 1rem;
+    width: 15%;
+    text-align: center;
+}
+
+.hdiv :hover {
+    font-size: 5rem;
+    color: white;
+}
